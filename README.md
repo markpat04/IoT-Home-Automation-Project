@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🏠 IoT-Home-Automation-Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
@@ -5,14 +7,17 @@
 ![InfluxDB](https://img.shields.io/badge/Database-InfluxDB-22ADF6?logo=influxdb&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+</div>
+
 > **A comprehensive, Docker-based learning environment bridging the gap between hardware (IoT) and intelligence (Data Science).**
+
+---
 
 ## 📖 Overview
 
 Welcome to the **Non-Degree IoT Workshop 2025**. This project is designed to simulate a real-world industrial data pipeline. It teaches you how to capture data from sensors, transmit it efficiently, store it for analysis, and visualize it for decision-making.
 
 For a Data Scientist or Software Engineer, understanding the full lifecycle of data—from the "Edge" (sensors) to the "Cloud" (databases/dashboards)—is a critical skill.
-
 
 
 ### 🎯 Why this project?
