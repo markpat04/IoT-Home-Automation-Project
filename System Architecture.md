@@ -1,16 +1,7 @@
 # System Architecture Overview
 
-This document provides a comprehensive overview of the IoT Home Automation Learning Platform architecture, explaining how all Docker services and Python code work together.
+This platform represents a complete Industrial IoT (IIoT) ecosystem running in isolation. It is designed to simulate the full lifecycle of data—from edge generation to centralized visualization—allowing students to interface with real-world protocols using Python.
 
-## Table of Contents
-
-1. [System Overview](#system-overview)
-2. [Architecture Diagram](#architecture-diagram)
-3. [Docker Services](#docker-services)
-4. [Network Architecture](#network-architecture)
-5. [Data Flow](#data-flow)
-6. [Component Interactions](#component-interactions)
-7. [Python Integration](#python-integration)
 
 ## System Overview
 
