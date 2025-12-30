@@ -509,23 +509,6 @@ graph TB
 - Volumes managed by Docker
 - Can be backed up/restored
 
-## Security Considerations
-
-### Network Isolation
-
-- All services on isolated Docker network
-- Only necessary ports exposed to host
-- Internal communication via container names
-
-### Authentication
-
-- **InfluxDB**: Token-based authentication
-- **Grafana**: Username/password (admin/admin)
-- **EMQX**: Default credentials (admin/public)
-- **Flask API**: No authentication (development mode)
-
-**Note**: For production, implement proper authentication!
-
 ## Performance Characteristics
 
 ### Resource Usage
