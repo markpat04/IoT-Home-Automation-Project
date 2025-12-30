@@ -17,7 +17,7 @@
 
 Welcome to the **Non-Degree IoT Workshop 2025**. This project is designed to simulate a real-world industrial data pipeline. It teaches you how to capture data from sensors, transmit it efficiently, store it for analysis, and visualize it for decision-making.
 
-For a Data Scientist or Software Engineer, understanding the full lifecycle of data—from the "Edge" (sensors) to the "Cloud" (databases/dashboards)—is a critical skill.
+For a Data Scientist or Software Engineer, understanding the full lifecycle of data—from the "Edge" (sensors) to the databases/dashboards is a critical skill.
 
 
 ### 🎯 Why this project?
@@ -67,8 +67,8 @@ docker-compose up -d
 * 📡 EMQX Dashboard: http://localhost:18083
 * 🔄 Node-RED: http://localhost:1880
 
-📂 Project Structure
-A clean structure allows for easy navigation and scaling.
+### 📂 Project Structure
+A structure allows for easy navigation and scaling.
 
 ```Plaintext
 non-deegree-workshops-2025/
