@@ -72,18 +72,20 @@ A clean structure allows for easy navigation and scaling.
 
 ```Plaintext
 non-deegree-workshops-2025/
-├── api/                    # 🐍 Flask Backend Application
-│   ├── app.py              # Main entry point
-│   └── routes/             # API Endpoints
-├── docker/                 # 🐳 Infrastructure as Code
-│   ├── docker-compose.yml  # The blueprint for all services
-│   ├── nginx/              # Routing configs
-│   └── docs/               # Docker specific guides
-├── simulator/              # 🤖 Data Generators
-│   └── devices/            # Virtual sensors (Temp, Humidity, etc.)
-├── workshop/               # 🎓 Educational Content
-│   ├── code/               # Python source code for each workshop
-│   ├── docs/               # Step-by-step PDF/MD guides
-│   └── flows/              # Node-RED JSON exports
-└── requirements.txt        # Python Dependencies
+├── Simulator/                    
+│   ├── humidity_sensor.py             
+│   └── iot_simulator.py
+│   ├── smart_switch.py   
+│   └── temperature_sensor.py             
+├── code/                           
+├── docker/                 
+│   ├── datasources/
+│   ├── grafana/
+│   └── nginx/
+│   └── node-red/
+├── .env
+├── .env.example
+├── README.md
+├── System Architecture.md         
+└── requirements.txt
 ```
