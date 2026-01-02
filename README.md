@@ -15,13 +15,12 @@
 
 ## 📖 Overview
 
-Welcome to the **Non-Degree IoT Workshop 2025**. This project is designed to simulate a real-world industrial data pipeline. It teaches you how to capture data from sensors, transmit it efficiently, store it for analysis, and visualize it for decision-making.
-
-For a Data Scientist or Software Engineer, understanding the full lifecycle of data—from the "Edge" (sensors) to the databases/dashboards is a critical skill.
+This project is designed to simulate a real-world industrial data pipeline. It teaches you how to capture data from sensors, transmit it efficiently, store it for analysis, and visualize it for decision-making.
+For an understanding of the full lifecycle of data, from the sensors to databases and dashboards.
 
 
 ### 🎯 Why this project?
-Real-world business problems require robust data infrastructure. This platform demonstrates:
+Real-world business problems require a robust data infrastructure. This platform demonstrates:
 1.  **Data Engineering:** Ingesting high-frequency time-series data using MQTT and InfluxDB.
 2.  **DevOps:** Managing complex microservices architectures using Docker.
 3.  **Analytics:** Visualizing trends and anomalies using Grafana.
